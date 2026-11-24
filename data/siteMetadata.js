@@ -7,7 +7,7 @@ const siteMetadata = {
   description: 'Enjoy my latest posts',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://alexbran8.github.io/me',
+  siteUrl: 'https://alexbran8.github.io',
   siteRepo: 'https://github.com/alexbran8/me',
   siteLogo: `${process.env.BASE_PATH}/static/images/logo.png`,
   image: `${process.env.BASE_PATH}/static/images/avatar.png`,
